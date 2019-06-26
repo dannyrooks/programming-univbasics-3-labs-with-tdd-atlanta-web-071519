@@ -10,4 +10,4 @@ difference = 0 - 1
 
 product = 0 * 1
 
-quotent = 0 % 1
+quotient = 0 % 1
